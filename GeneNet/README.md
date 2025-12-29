@@ -2,8 +2,8 @@ The GeneNet algorithm is used to learn genetic regulatory network connectivity f
 the time series nature of experimental data to allow for better causal predictions on
 networks with tight feedback. 
 
-##### Website: [Myers Research Group](http://www.async.ece.utah.edu/)
-##### Contact: Chris Myers (@cjmyers) myers@ece.utah.edu
+##### Website: 
+##### Contact: Cassandra Gonzalez cassdgm@gmail.com
 
 ## Installing GeneNet
 ### From source:
